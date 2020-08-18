@@ -1,6 +1,9 @@
-### Hi there,I am Apoorv Yadav 👋 
+   # <h1 align="center">Hi there👋,I am Apoorv Yadav</h1>
+   
+   
+   ### <h3 align="center"> An enthusiast and a passionate developer from Delhi,India</h3>
 
-
+</br>
 
 - 🔭 I’m currently working on [Parking Helper App](https://github.com/Apoorvssj/Parking_Helper_App)
 - 🌱 I’m currently learning ReactJs,Android-Studio
@@ -8,6 +11,7 @@
 - 📫 How to reach me: [Gmail - apoorv2yadav@gmail.com](apoorv2yadav@gmail.com)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I am a technophile and a tech geek,also a casual gamer.
+</br>
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/apoorv-yadav-14719b1ab/)
