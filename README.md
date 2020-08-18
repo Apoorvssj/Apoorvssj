@@ -9,6 +9,6 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I am a technophile and a tech geek,also a casual gamer.
 
-<img align="center" style="inline-block" src="https://github-readme-stats.vercel.app/api?username=Apoorvssj&show_icons=true&theme=algolia"> <img align="center" style="inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorvssj&show_icons=true&theme=algolia" />
+<img align="center" style="display:inline-block;margin:auto 0 0" src="https://github-readme-stats.vercel.app/api?username=Apoorvssj&show_icons=true&theme=algolia"> <img align="center" style="display:inline-block;margin:auto 0 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorvssj&show_icons=true&theme=algolia" />
 
 
