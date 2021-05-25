@@ -6,12 +6,12 @@
 
 </br>
 
-- 🔭 I’m currently working on [Parking Helper App](https://github.com/Apoorvssj/Parking_Helper_App)
-- 🌱 I’m currently learning ReactJs,Android-Studio
-- 💬 Ask me about Android-Studio,Java,React,Javascript,SCSS,Firebase
+- 🔭 I’m currently working on remake of [E-commerce website](https://github.com/Apoorvssj/Parking_Helper_App)
+- 🌱 I’m currently learning Node.js, ExpressJS and DSA
+- 💬 Ask me about Android-Studio, Java, React, Javascript, Python, tailwindcss, framer-motion, Styled-Components
 - 📫 How to reach me: [Gmail - apoorv2yadav@gmail.com](apoorv2yadav@gmail.com)
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I am a technophile and a tech geek,also a casual gamer.
+- ⚡ Fun fact: I am a technophile and a tech geek,and i love development.
 </br>
 
 ### Connect with me:
