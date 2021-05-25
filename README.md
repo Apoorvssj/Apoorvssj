@@ -22,6 +22,7 @@
 
 
 ### Languages and Tools:
+<p align="left"> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
@@ -47,6 +48,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://imminger.me/mac-iconset/mac-icons/Android-Studio.png" />
 <img align="left" alt="GitHub" width="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" />
 <img align="left" alt="GitHub" width="26px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" />
+    </p>
 
 </br></br></br>
 
