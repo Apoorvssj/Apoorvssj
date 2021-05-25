@@ -45,7 +45,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <img alt="GitHub" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img alt="Android-Studio" width="40px" height="40" src="https://imminger.me/mac-iconset/mac-icons/Android-Studio.png" />
-<img alt="Firebase" width="40px" height="40" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" />
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <img alt="Java" width="40px" height="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" />
     </p>
 
