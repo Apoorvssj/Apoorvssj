@@ -6,7 +6,7 @@
 
 </br>
 
-- 🔭 I’m currently working on remake of [E-commerce website](https://github.com/Apoorvssj/Parking_Helper_App)
+- 🔭 I’m currently working on remake of E-commerce website.
 - 🌱 I’m currently learning Node.js, ExpressJS and DSA
 - 💬 Ask me about Android-Studio, Java, React, Javascript, Python, tailwindcss, framer-motion, Styled-Components
 - 📫 How to reach me: [Gmail - apoorv2yadav@gmail.com](apoorv2yadav@gmail.com)
