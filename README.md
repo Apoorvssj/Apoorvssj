@@ -55,4 +55,6 @@
 
 <img align="center" style="display:inline-block;margin:auto 0 0" src="https://github-readme-stats.vercel.app/api?username=Apoorvssj&show_icons=true&theme=algolia"> <img align="center" style="display:inline-block;margin:auto 0 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorvssj&show_icons=true&theme=algolia" />
 
+<a href="https://app.daily.dev/apoorv_ssj"><img src="https://api.daily.dev/devcards/438b81f129e5485082af286aac49d603.png?r=3i0" width="300" alt="Apoorv Yadav's Dev Card"/></a>
+
 
