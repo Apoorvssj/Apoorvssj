@@ -6,9 +6,8 @@
 
 </br>
 
-- 🔭 I’m currently working on remake of E-commerce website.
-- 🌱 I’m currently learning Node.js, ExpressJS and DSA
-- 💬 Ask me about Android-Studio, Java, React, Javascript, Python, tailwindcss, framer-motion, Styled-Components
+- 🔭 I’m currently working with Yojak as SDE.
+- 🌱 I’m currently engaged with technologies like - 💬 React,React Native, GIT, AWS, Docker, Django&Django rest framework.
 - 📫 How to reach me: [Gmail - apoorv2yadav@gmail.com](apoorv2yadav@gmail.com)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I am a technophile and a tech geek,and i love development.
